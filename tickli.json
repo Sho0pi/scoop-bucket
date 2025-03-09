@@ -1,19 +1,19 @@
 {
-    "version": "0.0.2",
+    "version": "0.0.3",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/Sho0pi/tickli/releases/download/v0.0.2/tickli_0.0.2_windows_amd64.zip",
+            "url": "https://github.com/Sho0pi/tickli/releases/download/v0.0.3/tickli_0.0.3_windows_amd64.zip",
             "bin": [
                 "tickli.exe"
             ],
-            "hash": "8c12e3e9e918311a97105f320db4e75f4ff1eb9860c450af1fed4a702454d642"
+            "hash": "b700b5108ad186dffe64aa25078a14591de361b954f228a86ba19a4819d924e8"
         },
         "arm64": {
-            "url": "https://github.com/Sho0pi/tickli/releases/download/v0.0.2/tickli_0.0.2_windows_arm64.zip",
+            "url": "https://github.com/Sho0pi/tickli/releases/download/v0.0.3/tickli_0.0.3_windows_arm64.zip",
             "bin": [
                 "tickli.exe"
             ],
-            "hash": "3542d6f117af7346bbefe9db27522cad0f9241c4e661a56c805d8cd87f35583b"
+            "hash": "01bddfa2b66ea4ebb5d7a5500bf29acacb6dd04ddd108ec64fd7968f658a3e7b"
         }
     },
     "homepage": "https://github.com/sho0pi/tickli",
