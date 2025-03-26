@@ -1,19 +1,19 @@
 {
-    "version": "0.0.1",
+    "version": "0.1.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/Sho0pi/gocat/releases/download/v0.0.1/gocat_0.0.1_windows_amd64.zip",
+            "url": "https://github.com/Sho0pi/gocat/releases/download/v0.1.0/gocat_0.1.0_windows_amd64.zip",
             "bin": [
                 "gocat.exe"
             ],
-            "hash": "85a9f2d029d7e35e3c33203904a31d01ff04079f32d4e325fdc0b48188cf9333"
+            "hash": "d9e5bb607736059b1a8195b618359ab40f3da428cea887db10776ac5ad840383"
         },
         "arm64": {
-            "url": "https://github.com/Sho0pi/gocat/releases/download/v0.0.1/gocat_0.0.1_windows_arm64.zip",
+            "url": "https://github.com/Sho0pi/gocat/releases/download/v0.1.0/gocat_0.1.0_windows_arm64.zip",
             "bin": [
                 "gocat.exe"
             ],
-            "hash": "0b9776cb74c07c3c66d430250315d122bda306f17b577ba75e7d0e1c89ae0054"
+            "hash": "9fc42a00d9970a96a441b04ff8cf85b204d018680b5e214ed3b484593a3ca177"
         }
     },
     "homepage": "https://github.com/sho0pi/gocat",
